@@ -1,0 +1,21 @@
+*{
+    margin: 0;
+    padding: 0;
+    overflow-x: hidden;
+}
+.div{
+    background-image: url('https://th.bing.com/th/id/R.7717cb6c202a38acf15f77c391a0f866?rik=H0kETGg58L%2bJ4w&riu=http%3a%2f%2fmostvaluablebrands.com%2fwp-content%2fuploads%2f2024%2f06%2fDALL%c2%b7E-2024-06-06-14.50.52-A-photorealistic-widescreen-image-of-Tata-Consultancy-Services-TCS-headquarters.-The-building-should-have-a-modern-sleek-glass-facade-with-the-TCS-1-1.webp&ehk=6jdpe8MpBqWNU4%2bsW0oFBVIEF06UN3yxPDwgHmmTMPE%3d&risl=&pid=ImgRaw&r=0');
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 20rem;
+    width: 100vw;
+
+}
+.child h1{
+    color: red;
+}
+button{
+    color: brown;
+    background-color: aqua;
+}
